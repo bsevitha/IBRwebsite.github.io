@@ -198,7 +198,7 @@ header a{
 }
 .nav-down a{
 	font-size:20px;
-	
+	color:#000;
 }
 
 /* Responsive Navigation */
@@ -216,7 +216,7 @@ header a{
   position: absolute;
   top: 60%;
 	left:85%;
-float:right;
+
   display: inline-block;
   -webkit-transform: translateX(-50%) translateY(-50%);
   -moz-transform: translateX(-50%) translateY(-50%);
