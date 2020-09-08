@@ -200,6 +200,49 @@ header a{
 	font-size:20px;
 	
 }
+.button44{
+  padding: 5px 15px;
+  font-size: 15px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button44:hover {background-color: #3e8e41}
+
+.button44:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.button43{
+  padding: 5px 15px;
+  font-size: 20px;
+  text-align: center;
+ 
+  cursor: pointer;
+  margin-top:30px;
+  margin-left:80%;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button43:hover {background-color: #3e8e41}
+
+.button43:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
 
 /* Responsive Navigation */
 
