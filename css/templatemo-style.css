@@ -196,6 +196,10 @@ header a{
 	font-weight:bold;
 	
 }
+.nav-down a{
+	font-size:50px;
+	color:#000;
+}
 
 /* Responsive Navigation */
 
