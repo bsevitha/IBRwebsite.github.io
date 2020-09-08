@@ -191,6 +191,11 @@ font-weight: bold;
 .nav-up {
     top: -75px;
 }
+header a{
+	font-size:20px;
+	font-weight:bold;
+	
+}
 
 /* Responsive Navigation */
 
@@ -205,8 +210,8 @@ font-weight: bold;
 
 .navbar-toggle {
   position: absolute;
-  top: 40%;
-  left: 50%;
+  top: 60%;
+  left: 90%;
   display: inline-block;
   -webkit-transform: translateX(-50%) translateY(-50%);
   -moz-transform: translateX(-50%) translateY(-50%);
