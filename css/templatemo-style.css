@@ -192,13 +192,13 @@ font-weight: bold;
     top: -75px;
 }
 header a{
-	font-size:40px;
+	font-size:20px;
 	font-weight:bold;
 	
 }
 .nav-down a{
-	font-size:50px;
-	color:#000;
+	font-size:20px;
+	
 }
 
 /* Responsive Navigation */
@@ -215,6 +215,7 @@ header a{
 .navbar-toggle {
   position: absolute;
   top: 60%;
+	left:100%;
 float:right;
   display: inline-block;
   -webkit-transform: translateX(-50%) translateY(-50%);
