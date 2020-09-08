@@ -215,7 +215,7 @@ header a{
 .navbar-toggle {
   position: absolute;
   top: 60%;
-	left:100%;
+	left:85%;
 float:right;
   display: inline-block;
   -webkit-transform: translateX(-50%) translateY(-50%);
