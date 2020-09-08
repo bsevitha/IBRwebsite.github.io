@@ -182,7 +182,11 @@ header {
     transition: top 0.3s ease-in-out;
     width: 100%;
 }
+.navbar-toggle p{
+  color:#000;
+  text-align: center;
 
+}
 .nav-up {
     top: -75px;
 }
